@@ -1,5 +1,2 @@
-Aula de git hub do Sérgio
-
-Aula de Engenharia de sistemas
-
+Aula de GitHub do Sérgio - Engenharia de Sistemas 🫡
 By Henrique
